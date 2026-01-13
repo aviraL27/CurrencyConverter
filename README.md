@@ -23,6 +23,3 @@ This project is beginner-friendly and focuses on core frontend concepts only.
 - Free Exchange Rate API
 - Flag icons from FlagCDN
 
----
-
-## 📁 Project Structure
